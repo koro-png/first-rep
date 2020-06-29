@@ -1,0 +1,1 @@
+This is Koro's first time using Git. I hope everything is okay.
